@@ -6,8 +6,6 @@ Importance to project
 
     These experiments will help you understand what a bound method is and how it works in Python. You will also learn how to see what is really in a class and an instance of that class. Finally, you’ll learn what monkey patching is.
 
-
-
 Workflow
 
   1. Create your own version of the Price class, similar to this:
